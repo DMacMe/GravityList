@@ -1,5 +1,5 @@
 # GravityList
-This list is to keep track of the blocklists for the Pi-Hole that are actively maintained.
+This list is to keep track of the blocklists for the Pi-Hole that are actively maintained & updated.s
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
