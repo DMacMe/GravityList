@@ -41,3 +41,6 @@ https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://blocklistproject.github.io/Lists/tracking.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://raw.githubusercontent.com/anjumrafidofficial/PiholeBL/main/ApexBLPihole.txt
