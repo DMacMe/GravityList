@@ -1,11 +1,12 @@
 akamaihd.net
 akamaitechnnologies.com
 akamaized.net
-amazonaws.com api.ipify.org
+amazonaws.com
+api.ipify.org
 appleid.apple.com
-apt.sonarr.tv
 ax.phobos.apple.com.edgesuite.net
-c.s-microsoft.com cdn.cloudflare.net
+c.s-microsoft.com
+cdn.cloudflare.net
 cdnjs.cloudflare.com
 clients1.google.com
 clients2.google.com
@@ -15,30 +16,39 @@ clients5.google.com
 clients6.google.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
-cse.google.com ctldl.windowsupdate.com
+cse.google.com
+ctldl.windowsupdate.com
 dashboard.plex.tv
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
-dl.dropbox.com dl.dropboxusercontent.com
+dl.dropbox.com
+dl.dropboxusercontent.com
 dns.msftncsi.com
-download.sonarr.tv
 dynupdate.no-ip.com
-forums.sonarr.tv
 geo-prod.do.dsp.mp.microsoft.com
-giphy.com github.com
-github.io googleapis.com
-gstatic.com i.ytimg.com
-i1.ytimg.com imgs.xkcd.com
+giphy.com
+github.com
+github.io
+googleapis.com
+gstatic.com
+i.ytimg.com
+i1.ytimg.com
+imgs.xkcd.com
 login.microsoftonline.com
 manifest.googlevideo.com
 meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz meta.plex.tv
+meta.plex.bz
+meta.plex.tv
 microsoftonline.com
-msftncsi.com my.plexapp.com
+msftncsi.com
+my.plexapp.com
 nine.plugins.plexapp.com
-no-ip.com node.plexapp.com
-ns1.dropbox.com ns2.dropbox.com
-o1.email.plex.tv o2.sg0.plex.tv
+no-ip.com
+node.plexapp.com
+ns1.dropbox.com
+ns2.dropbox.com
+o1.email.plex.tv
+o2.sg0.plex.tv
 ocsp.apple.com
 office365.com
 officeclient.microsoft.com
@@ -51,8 +61,10 @@ pubsub.plex.bz
 pubsub.plex.tv
 raw.githubusercontent.com
 redirector.googlevideo.com
-s.youtube.com s.ytimg.com
-s1.wp.com s2.youtube.com
+s.youtube.com
+s.ytimg.com
+s1.wp.com
+s2.youtube.com
 s3.amazonaws.com
 staging.plex.tv
 status.plex.tv
@@ -68,7 +80,8 @@ www.googleapis.com
 www.msftncsi.com
 www.no-ip.com
 www.youtube-nocookie.com
-youtu.be youtube-nocookie.com
+youtu.be
+youtube-nocookie.com
 www.msftconnecttest.com
 (.|^)spot.im$
 lastpass.com
@@ -95,7 +108,8 @@ scontent.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 graph.facebook.com
 connect.facebook.com
-cdn.fbsbx.com plex.tv
+cdn.fbsbx.com
+plex.tv
 tvthemes.plexapp.com.cdn.cloudflare.net
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 metrics.plex.tv
@@ -132,27 +146,22 @@ apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 aspnetcdn.com
-attestation.xboxlive.com
 brightcove.net
 cdn.embedly.com
 cdn.optimizely.com
 cdn2.optimizely.com
 cdn3.optimizely.com
-cert.mgt.xboxlive.com
 clientconfig.passport.net
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dataplicity.com
-def-vef.xboxlive.com
 dev.virtualearth.net
-device.auth.xboxlive.com
 display.ugc.bazaarvoice.com
 drift.com
 ecn.dev.virtualearth.net
-eds.xboxlive.com
 fonts.gstatic.com
-g.live.com geo3.ggpht.com
-help.ui.xboxlive.com
+g.live.com
+geo3.ggpht.com
 hls.ted.com
 imagesak.secureserver.net
 imgix.net
@@ -161,13 +170,12 @@ intercom.io
 jquery.com
 jsdelivr.net
 lastfm-img2.akamaized.net
-licensing.xboxlive.com
 live.com
 login.live.com
 nexusrules.officeapps.live.com
 npr-news.streaming.adswizz.com
-notify.xboxlive.com
-office.com office.net
+office.com
+office.net
 om.cbsi.com
 onedrive.live.com
 outlook.live.com
@@ -184,19 +192,14 @@ spclient.wg.spotify.com
 ssl.p.jwpcdn.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
-tawk.to tedcdn.com
-title.auth.xboxlive.com
-title.mgt.xboxlive.com
+tawk.to
+tedcdn.com
 traffic.libsyn.com
 twimg.com
 ui.skype.com
 widget-cdn.rpxnow.com
 ws.audioscrobbler.com
 www.dataplicity.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xboxlive.com
-xsts.auth.xboxlive.com
 yt3.ggpht.com
 zee.cws.conviva.com
 pings.conviva.com
@@ -208,7 +211,6 @@ vidtech.cbsinteractive.com
 continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
-xbox.ipv6.microsoft.com
 rover.ebay.com
 improving.duckduckgo.com
 incoming.telemetry.mozilla.org
