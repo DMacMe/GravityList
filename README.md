@@ -1,3 +1,2 @@
 # GravityList
-This list is to keep track of the blocklists for the Pi-Hole that are actively maintained & updated. They are in no particular order, but total 1,092,357 domains.
-I had to add various domians to the allowlist to keep people happy :)
+This list is to keep track of the allowlist & blocklists for my Pi-Hole instance that are actively maintained & updated. They are in no particular order, but total roughly 1.5 million domains. I had to add various domains to the allowlist to keep people happy :-)
